@@ -1,5 +1,5 @@
 //
-//  Authentication.swift
+//  AppAuthentication.swift
 //  Exercise
 //
 //  Created by dvir on 19/01/2019.

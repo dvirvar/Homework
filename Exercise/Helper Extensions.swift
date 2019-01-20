@@ -1,5 +1,5 @@
 //
-//  Extensions.swift
+//  Helper Extensions.swift
 //  Exercise
 //
 //  Created by dvir on 17/01/2019.
